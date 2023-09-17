@@ -13,4 +13,4 @@ jobs:
        name: ffmpeg  
        url: https://ffmpeg.org/download.html  
        path: /tmp/ffmpeg  
-     if: success() && github.com/hzxYue/mirrorsoft.git
+     if: success() && https://github.com/hzxYue/mirrorsoft.git
